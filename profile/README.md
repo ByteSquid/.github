@@ -12,7 +12,7 @@ Welcome to ByteSquid, a software engineering and DevOps consulting organization 
 - Monitoring: Prometheus, Grafana, ELK Stack
 
 ## :wrench: Our Repositories
-- Composer - A helm-like tool for Docker
+- Composer - A helm-like tool for docker-compose
 - AIChef - Currently Private WIP
 
 
