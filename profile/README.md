@@ -1,7 +1,7 @@
 # :octopus: ByteSquid 
 
 ## :dart: What We Do
-Welcome to ByteSquid, a software engineering and DevOps consulting organization specializing in Java, Python, Rust, and JavaScript (React). We help businesses optimize their development and operations processes by utilizing cutting-edge technology and industry best practices.
+Welcome to ByteSquid, a software engineering and DevOps consulting organization specializing in Java, Python, Rust, and JavaScript. We help businesses optimize their development and operations processes by utilizing cutting-edge technology and industry best practices.
 
 ## :rocket: Technologies We Work With
 - Software Engineering: Java, Python, Javascript, Rust
