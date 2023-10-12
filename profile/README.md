@@ -30,6 +30,5 @@ Welcome to ByteSquid, a software engineering and DevOps consulting organization 
 Interested in collaborating with us or seeking our expertise? Feel free to reach out to us:
 
 - Sam: [sam@bytesquid.com](mailto:sam@bytesquid.com)
-- Ryan: [ryan@bytesquid.com](mailto:ryan@bytesquid.com)
 - Morgan: [morgan@bytesquid.com](mailto:morgan@bytesquid.com)
 - Kez: [kez@bytesquid.com](mailto:kez@bytesquid.com)
